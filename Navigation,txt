@@ -1,0 +1,8 @@
+Notes:
+Consistency: Ensure the navigation menu (<nav>) is consistent across all pages. This helps users easily navigate your site.
+
+Relative Links: Use relative paths like index.html, blog.html, etc., assuming all HTML files are in the same directory. If they are in different directories, adjust the paths accordingly.
+
+CSS and JavaScript: Make sure to include the correct paths to your CSS and JavaScript files in each HTML file.
+
+By following this approach, you can create a well-structured website with easily navigable links between different pages.
